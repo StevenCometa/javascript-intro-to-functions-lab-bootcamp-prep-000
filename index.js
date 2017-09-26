@@ -21,7 +21,7 @@ var lowercase = `hello`
 
 lowercase.toLowerCase() === lowercase
 
-function sayHitoGrandma(string) {
+function sayHiToGrandma(string) {
   if(string === uppercase)
   return "YES INDEED!"
  else if (string === lowercase)
